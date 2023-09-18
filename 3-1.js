@@ -15,3 +15,4 @@ if (check == 1) {
 } else {
   console.log("결과값이 없습니다");
 }
+//혼자
